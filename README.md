@@ -70,7 +70,7 @@ Computer Science
 >>>
 >>>[how-to-setup-mongodb-server-on-ubuntu-and-enable-authentication](https://sysadmins.co.za/how-to-setup-mongodb-server-on-ubuntu-and-enable-authentication/)
 >>>
->>>[enable-authentication](https://docs.mongodb.com/manual/tutorial/enable-authentication/）
+>>>[enable-authentication](https://docs.mongodb.com/manual/tutorial/enable-authentication/)
 >>>
 >>>[mongodb启动不了：child process failed, exited with error number 48](https://www.cnblogs.com/joshua317/articles/5190385.html)
 >>>
