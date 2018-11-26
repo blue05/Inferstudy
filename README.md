@@ -9,11 +9,41 @@ Design
 >>[identify-font](https://www.fontsquirrel.com/matcherator)
 >>
 >>[css-font-size-em-vs-px-vs-pt-vs/](https://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs/)
-
-AI
 >
->Courses
+>wiki
+>
+>>[読点](https://ja.wikipedia.org/wiki/%E8%AA%AD%E7%82%B9)
+>>
+Computer Science
+>
+>AI
 >
 >>[MIT-人工智能](http://open.163.com/movie/2017/9/Q/S/MCTMNN3UI_MCTMNR8QS.html)
 >>>17 boosting, 11/26/18
-
+>
+>Data
+>
+>>[MedPix](https://medpix.nlm.nih.gov/case?id=4f6f6d55-1e9f-4784-a0f3-06cad29742d1&quiz=t)
+>>
+>Language
+>
+>>markdown
+>>
+>>>[GitHub中README.md文件的编辑和使用](https://blog.csdn.net/ljc_563812704/article/details/53464039)
+>>>
+>>>[原来Github上的README.md文件这么有意思](https://blog.csdn.net/zhaokaiqiang1992/article/details/41349819)
+>>>
+Paperwork
+>
+>Tutorials
+>
+>>[外資/外国法人/日本支店-会社設立支援](http://ventureinq.jp/gaishisetup/)
+>>
+>>[日本での拠点設立方法](https://www.jetro.go.jp/invest/setting_up/section1/page5.html)
+>
+>Template
+>
+>>[英文ビジネス文書基本フォーム ](http://www.someya-net.com/62-BizManual_Open/06%20chap-5-1.pdf)
+>>
+>>[［文書］テンプレートの無料ダウンロード](https://template.k-solution.info/)
+>
