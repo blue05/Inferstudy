@@ -26,7 +26,7 @@ Computer Science
 >
 >>[MIT-人工智能](http://open.163.com/movie/2017/9/Q/S/MCTMNN3UI_MCTMNR8QS.html)
 >>>17 boosting, 11/26/18
->>>
+>>>18 transition, trajectory, sequence, 11/29/18
 >>[Intro to AI-Mita](http://stephenfitz.info/lectures/keio/keio2018aia/)
 >>
 >>Linear-algebra
