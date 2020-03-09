@@ -32,6 +32,8 @@ Computer Science
 >>>
 >>[Intro to AI-Mita](http://stephenfitz.info/lectures/keio/keio2018aia/)
 >>
+>>[Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+>>
 >>Linear-algebra
 >>
 >>>[linear-algebra](https://www.khanacademy.org/math/linear-algebra)
@@ -62,6 +64,8 @@ Computer Science
 >>>
 >>>>[notes](https://github.com/austin-taylor/code-vault/blob/master/python_expert_notebook.ipynb)
 >>>>
+>>>
+>>>[python+numpy](http://cs231n.github.io/python-numpy-tutorial/)
 >*Troubleshooting
 >
 >>node-js
