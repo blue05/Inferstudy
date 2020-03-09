@@ -66,6 +66,7 @@ Computer Science
 >>>>
 >>>
 >>>[python+numpy](http://cs231n.github.io/python-numpy-tutorial/)
+>>>
 >*Troubleshooting
 >
 >>node-js
