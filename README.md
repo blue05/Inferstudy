@@ -34,6 +34,9 @@ Computer Science
 >>
 >>[Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 >>
+>>>[notes](http://cs231n.github.io/)
+>>>
+>>
 >>Linear-algebra
 >>
 >>>[linear-algebra](https://www.khanacademy.org/math/linear-algebra)
